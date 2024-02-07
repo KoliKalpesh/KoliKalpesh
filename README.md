@@ -41,7 +41,7 @@
 <!-- Connect with Me -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/KoliKalpesh?label=Follow&style=social" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/followers/KoliKalpesh?label=Followers&style=social" alt="GitHub followers"/>
 </p>
 
 <div align="center">
