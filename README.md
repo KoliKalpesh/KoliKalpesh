@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I'm Kalpesh! 👋</h1>
 
 <!-- Introduction -->
-<p align="center">Passionate Frontend Web Developer with expertise in HTML, CSS, JavaScript, ReactJS, and Tailwind CSS. I love creating user-friendly and visually appealing web applications.</p>
+<p align="center">Passionate Frontend Web Developer with expertise in HTML, CSS, JavaScript, ReactJS, and Tailwind CSS.<br> I love creating user-friendly and visually appealing web applications.</p>
 
 <!-- Skills -->
 <h2 align="center">Skills</h2>
