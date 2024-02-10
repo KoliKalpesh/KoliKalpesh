@@ -33,18 +33,10 @@
 </div>
 
 <!-- Get in Touch -->
-<h2 align="center">Get in Touch</h2>
-<p align="center">
-  LinkedIn: <a href="https://www.linkedin.com/in/kalpeshkoli">My LinkedIn Profile</a> <br/>
-  Portfolio: <a href="https://kalpesh-portfolio.netlify.app/">Portfolio Website</a>
-</p>
 
 <!-- Connect with Me -->
-<h2 align="center">Connect with Me</h2>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/KoliKalpesh?label=Followers&style=social" alt="GitHub followers"/>
-</p>
 
+<br>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=KoliKalpesh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KoliKalpesh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
